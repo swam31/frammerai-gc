@@ -1,0 +1,166 @@
+Channel_ID,Channel_Name,Client_ID,Client_Name
+CHANNEL_C3FA5887E4,Dynamiq News 24,CLIENT_9D4395EAF5,Dynamiq Media
+CHANNEL_DA558916EE,Dynamiq Prime,CLIENT_9D4395EAF5,Dynamiq Media
+CHANNEL_ED518EC4BA,Dynamiq Reports,CLIENT_9D4395EAF5,Dynamiq Media
+CHANNEL_B050C72B58,Dynamiq Talks,CLIENT_9D4395EAF5,Dynamiq Media
+CHANNEL_84AA7DB305,Dynamiq Xpress,CLIENT_9D4395EAF5,Dynamiq Media
+CHANNEL_836224A9B3,Dynamiq Now,CLIENT_9D4395EAF5,Dynamiq Media
+CHANNEL_0BEEC3E414,Dynamiq World,CLIENT_9D4395EAF5,Dynamiq Media
+CHANNEL_5D1D0D67D3,Dynamiq Spotlight,CLIENT_BAD7BF97FD,Dynamiq Digital
+CHANNEL_5CEBACA2FD,Dynamiq Sports,CLIENT_BAD7BF97FD,Dynamiq Digital
+CHANNEL_BAA1413AE4,Dynamiq Bulletin,CLIENT_BAD7BF97FD,Dynamiq Digital
+CHANNEL_46A231A3B9,Dynamiq Briefs,CLIENT_BAD7BF97FD,Dynamiq Digital
+CHANNEL_1D0A3B63B3,Dynamiq Hindi,CLIENT_BAD7BF97FD,Dynamiq Digital
+CHANNEL_907EBD19D5,Summit Reports,CLIENT_539840E785,Summit Communications
+CHANNEL_DB5EAE22C7,Summit Now,CLIENT_539840E785,Summit Communications
+CHANNEL_492A5394B1,Summit Talks,CLIENT_539840E785,Summit Communications
+CHANNEL_982AF00018,Summit Sports,CLIENT_539840E785,Summit Communications
+CHANNEL_3B31FEF9B4,Summit Xpress,CLIENT_539840E785,Summit Communications
+CHANNEL_6950C0DC8B,Summit Briefs,CLIENT_539840E785,Summit Communications
+CHANNEL_AA903A0946,Insight Spotlight,CLIENT_08AC09D4D8,Insight Content
+CHANNEL_EFC38DF7A0,Insight Live,CLIENT_08AC09D4D8,Insight Content
+CHANNEL_EAF2E4FB5B,Insight Talks,CLIENT_08AC09D4D8,Insight Content
+CHANNEL_9762CA3CD2,Insight News 24,CLIENT_08AC09D4D8,Insight Content
+CHANNEL_175B151198,Insight Xpress,CLIENT_08AC09D4D8,Insight Content
+CHANNEL_57DC57A327,Insight Digital,CLIENT_08AC09D4D8,Insight Content
+CHANNEL_96AA783770,Global Prime,CLIENT_4E0D572E9E,Global Content
+CHANNEL_8A3150654F,Global Reports,CLIENT_4E0D572E9E,Global Content
+CHANNEL_7E2BBAB3E3,Global Digital,CLIENT_4E0D572E9E,Global Content
+CHANNEL_4C4E5B7BE9,Global News 24,CLIENT_4E0D572E9E,Global Content
+CHANNEL_234B33E675,Global Xpress,CLIENT_4E0D572E9E,Global Content
+CHANNEL_B02035E887,Global Talks,CLIENT_4E0D572E9E,Global Content
+CHANNEL_43241BA14A,Nova Spotlight,CLIENT_EC52F788E1,Nova Digital
+CHANNEL_7856962342,Nova Bulletin,CLIENT_EC52F788E1,Nova Digital
+CHANNEL_6FD5DD326A,Nova Prime,CLIENT_EC52F788E1,Nova Digital
+CHANNEL_6335DAC702,Nova Reports,CLIENT_EC52F788E1,Nova Digital
+CHANNEL_43FD60EB49,Nova Talks,CLIENT_EC52F788E1,Nova Digital
+CHANNEL_A8D0ECD657,Nova Hindi,CLIENT_EC52F788E1,Nova Digital
+CHANNEL_316539F81B,Nova Live,CLIENT_EC52F788E1,Nova Digital
+CHANNEL_3DA4A66053,Nova Briefs,CLIENT_EC52F788E1,Nova Digital
+CHANNEL_98BAEE5D55,Momentum Sports,CLIENT_503983FDE3,Momentum Studios
+CHANNEL_AD3B6178AC,Momentum Reports,CLIENT_503983FDE3,Momentum Studios
+CHANNEL_931E8190E1,Momentum News 24,CLIENT_503983FDE3,Momentum Studios
+CHANNEL_B081BF810E,Momentum Xpress,CLIENT_503983FDE3,Momentum Studios
+CHANNEL_C1816ED7CC,Momentum Now,CLIENT_503983FDE3,Momentum Studios
+CHANNEL_300ADC5101,Momentum Talks,CLIENT_503983FDE3,Momentum Studios
+CHANNEL_5F391A5C65,Momentum Digital,CLIENT_503983FDE3,Momentum Studios
+CHANNEL_7575E6E9B0,Momentum Hindi,CLIENT_503983FDE3,Momentum Studios
+CHANNEL_471B7018B9,Jupiter Talks,CLIENT_4AE7C9F658,Jupiter Vision
+CHANNEL_47E1128A2E,Jupiter Sports,CLIENT_4AE7C9F658,Jupiter Vision
+CHANNEL_5E4C6BA6B0,Jupiter Live,CLIENT_4AE7C9F658,Jupiter Vision
+CHANNEL_49A9056615,Jupiter Digital,CLIENT_4AE7C9F658,Jupiter Vision
+CHANNEL_ECB65CB20F,Jupiter Prime,CLIENT_4AE7C9F658,Jupiter Vision
+CHANNEL_A103510158,Jupiter Reports,CLIENT_4AE7C9F658,Jupiter Vision
+CHANNEL_DD8FD6B555,Jupiter Hindi,CLIENT_4AE7C9F658,Jupiter Vision
+CHANNEL_70D22D957A,Pulse World,CLIENT_A3712347EA,Pulse Studios
+CHANNEL_E514A10917,Pulse Sports,CLIENT_A3712347EA,Pulse Studios
+CHANNEL_832FA02ABF,Pulse Live,CLIENT_A3712347EA,Pulse Studios
+CHANNEL_C7C505A6F4,Pulse Now,CLIENT_A3712347EA,Pulse Studios
+CHANNEL_C05B169170,Pulse Hindi,CLIENT_A3712347EA,Pulse Studios
+CHANNEL_CB39A383CF,Beacon Briefs,CLIENT_C00CBC862C,Beacon Vision
+CHANNEL_F16C29B313,Beacon Digital,CLIENT_C00CBC862C,Beacon Vision
+CHANNEL_F48C9C49D6,Beacon Sports,CLIENT_C00CBC862C,Beacon Vision
+CHANNEL_D750EFAE69,Beacon Bulletin,CLIENT_C00CBC862C,Beacon Vision
+CHANNEL_65223ADFF8,Beacon Prime,CLIENT_C00CBC862C,Beacon Vision
+CHANNEL_2EB566ABB0,Beacon Spotlight,CLIENT_C00CBC862C,Beacon Vision
+CHANNEL_D526DC53AB,Dynamiq Live,CLIENT_4C44133206,Dynamiq Studios
+CHANNEL_A58EF0CE5B,Dynamiq Digital,CLIENT_4C44133206,Dynamiq Studios
+CHANNEL_BD6743C2D8,Orbit World,CLIENT_3C1D76AE63,Orbit Broadcast
+CHANNEL_9A1011BD68,Orbit Live,CLIENT_3C1D76AE63,Orbit Broadcast
+CHANNEL_801FC6B3EB,Orbit Sports,CLIENT_3C1D76AE63,Orbit Broadcast
+CHANNEL_70C8DB0321,Orbit Bulletin,CLIENT_3C1D76AE63,Orbit Broadcast
+CHANNEL_A69FCA5F9E,Orbit Prime,CLIENT_3C1D76AE63,Orbit Broadcast
+CHANNEL_0E938606D2,Orbit News 24,CLIENT_3C1D76AE63,Orbit Broadcast
+CHANNEL_0772D69A07,Nova Sports,CLIENT_F54C30FE0B,Nova Vision
+CHANNEL_A2910CF4D9,Nova Digital,CLIENT_F54C30FE0B,Nova Vision
+CHANNEL_9BB96F81E3,Nova News 24,CLIENT_F54C30FE0B,Nova Vision
+CHANNEL_97555FF030,Nova World,CLIENT_F54C30FE0B,Nova Vision
+CHANNEL_216EC5064B,Nova Xpress,CLIENT_F54C30FE0B,Nova Vision
+CHANNEL_FA20BA78F3,Nova Now,CLIENT_F54C30FE0B,Nova Vision
+CHANNEL_5FFEEB1DDF,Crestline Hindi,CLIENT_D40056E70D,Crestline Network
+CHANNEL_94AC4DBB05,Crestline Talks,CLIENT_D40056E70D,Crestline Network
+CHANNEL_C245849220,Crestline Xpress,CLIENT_D40056E70D,Crestline Network
+CHANNEL_5BC734DFAD,Crestline Briefs,CLIENT_D40056E70D,Crestline Network
+CHANNEL_E232B3C063,Crestline Prime,CLIENT_D40056E70D,Crestline Network
+CHANNEL_BD8DB20EF1,Crestline Spotlight,CLIENT_D40056E70D,Crestline Network
+CHANNEL_75DE782E1E,Crestline Now,CLIENT_D40056E70D,Crestline Network
+CHANNEL_7686306224,Beacon Reports,CLIENT_397B16AFA4,Beacon Studios
+CHANNEL_D26B5FFD62,Beacon Talks,CLIENT_397B16AFA4,Beacon Studios
+CHANNEL_C22A0A563A,Beacon Xpress,CLIENT_397B16AFA4,Beacon Studios
+CHANNEL_A259E8965D,Beacon World,CLIENT_397B16AFA4,Beacon Studios
+CHANNEL_BF9E1DDF33,Beacon News 24,CLIENT_397B16AFA4,Beacon Studios
+CHANNEL_EA58C1EE43,Beacon Now,CLIENT_397B16AFA4,Beacon Studios
+CHANNEL_73C7939725,Beacon Live,CLIENT_397B16AFA4,Beacon Studios
+CHANNEL_BB6691A70F,Summit World,CLIENT_15F3E40743,Summit Reports
+CHANNEL_10C3A84486,Summit Hindi,CLIENT_15F3E40743,Summit Reports
+CHANNEL_797642AA41,Summit Spotlight,CLIENT_15F3E40743,Summit Reports
+CHANNEL_234C0838B3,Summit Prime,CLIENT_15F3E40743,Summit Reports
+CHANNEL_CBE9592C18,Summit Digital,CLIENT_15F3E40743,Summit Reports
+CHANNEL_11E46AFBF5,Radiant Prime,CLIENT_F1F6F36CCC,Radiant News
+CHANNEL_AF16CB31B1,Radiant Bulletin,CLIENT_F1F6F36CCC,Radiant News
+CHANNEL_D21327976C,Radiant Digital,CLIENT_F1F6F36CCC,Radiant News
+CHANNEL_EEBCA56A65,Radiant Xpress,CLIENT_F1F6F36CCC,Radiant News
+CHANNEL_D1002C3887,Radiant Briefs,CLIENT_F1F6F36CCC,Radiant News
+CHANNEL_293F137C2B,Radiant Now,CLIENT_F1F6F36CCC,Radiant News
+CHANNEL_2B492BAE1E,Radiant World,CLIENT_F1F6F36CCC,Radiant News
+CHANNEL_5DBE683BE6,Pulse Prime,CLIENT_19A302E911,Pulse Vision
+CHANNEL_EF42E62487,Pulse Spotlight,CLIENT_19A302E911,Pulse Vision
+CHANNEL_4368B1CB8F,Pulse Xpress,CLIENT_19A302E911,Pulse Vision
+CHANNEL_EB1181265C,Pulse News 24,CLIENT_19A302E911,Pulse Vision
+CHANNEL_A95FEADC01,Pulse Digital,CLIENT_19A302E911,Pulse Vision
+CHANNEL_0DF9538351,Pulse Talks,CLIENT_19A302E911,Pulse Vision
+CHANNEL_D06D5EDA7D,Pulse Bulletin,CLIENT_19A302E911,Pulse Vision
+CHANNEL_C54C9A0688,Pulse Briefs,CLIENT_19A302E911,Pulse Vision
+CHANNEL_E3E727AC74,Everest Sports,CLIENT_B98296BFA2,Everest Communications
+CHANNEL_5F7D4D462C,Everest Talks,CLIENT_B98296BFA2,Everest Communications
+CHANNEL_60076FA20F,Everest Briefs,CLIENT_B98296BFA2,Everest Communications
+CHANNEL_8B2A63A8DC,Everest World,CLIENT_B98296BFA2,Everest Communications
+CHANNEL_EFF6B13436,Everest Spotlight,CLIENT_B98296BFA2,Everest Communications
+CHANNEL_870AAE1F9B,Global Spotlight,CLIENT_53C8B054AF,Global Communications
+CHANNEL_9064781732,Global Live,CLIENT_53C8B054AF,Global Communications
+CHANNEL_48D4ECD373,Global Bulletin,CLIENT_53C8B054AF,Global Communications
+CHANNEL_6B7D292E4F,Global Sports,CLIENT_53C8B054AF,Global Communications
+CHANNEL_3F385DA449,Global World,CLIENT_53C8B054AF,Global Communications
+CHANNEL_082AF1594E,Global Hindi,CLIENT_53C8B054AF,Global Communications
+CHANNEL_34CFE5FB35,Global Now,CLIENT_53C8B054AF,Global Communications
+CHANNEL_816EE6F776,Global Briefs,CLIENT_53C8B054AF,Global Communications
+1,Fowler YouTube,1,Fowler Media Group
+2,Fowler Instagram,1,Fowler Media Group
+3,Fowler Facebook,1,Fowler Media Group
+4,Fowler X,1,Fowler Media Group
+5,Santos YouTube,2,Santos Broadcasting Co.
+6,Santos Instagram,2,Santos Broadcasting Co.
+7,Santos Facebook,2,Santos Broadcasting Co.
+8,Santos X,2,Santos Broadcasting Co.
+9,Nolan YouTube,3,Nolan Digital Studios
+10,Nolan Instagram,3,Nolan Digital Studios
+11,Nolan Facebook,3,Nolan Digital Studios
+12,Nolan X,3,Nolan Digital Studios
+13,Jones YouTube,4,Jones Content Hub
+14,Jones Instagram,4,Jones Content Hub
+15,Jones Facebook,4,Jones Content Hub
+16,Jones X,4,Jones Content Hub
+17,Kennedy YouTube,5,Kennedy Stream Network
+18,Kennedy Instagram,5,Kennedy Stream Network
+19,Kennedy Facebook,5,Kennedy Stream Network
+20,Kennedy X,5,Kennedy Stream Network
+21,Wolfe YouTube,6,Wolfe Vision Media
+22,Wolfe Instagram,6,Wolfe Vision Media
+23,Wolfe Facebook,6,Wolfe Vision Media
+24,Wolfe X,6,Wolfe Vision Media
+25,Berger YouTube,7,Berger Productions Ltd.
+26,Berger Instagram,7,Berger Productions Ltd.
+27,Berger Facebook,7,Berger Productions Ltd.
+28,Berger X,7,Berger Productions Ltd.
+29,Curtis YouTube,8,Curtis Creative Agency
+30,Curtis Instagram,8,Curtis Creative Agency
+31,Curtis Facebook,8,Curtis Creative Agency
+32,Curtis X,8,Curtis Creative Agency
+33,Weber YouTube,9,Weber Broadcast Network
+34,Weber Instagram,9,Weber Broadcast Network
+35,Weber Facebook,9,Weber Broadcast Network
+36,Weber X,9,Weber Broadcast Network
+37,Taylor YouTube,10,Taylor Media Works
+38,Taylor Instagram,10,Taylor Media Works
+39,Taylor Facebook,10,Taylor Media Works
+40,Taylor X,10,Taylor Media Works
